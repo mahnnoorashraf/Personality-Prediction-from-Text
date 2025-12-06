@@ -48,7 +48,11 @@ If the CSV is not found, the application automatically uses a built-in dummy dat
 
 1. **Clone or Navigate to the Project Directory**
    ```bash
-   cd c:\Users\mahnn\OneDrive\Documents\PROJECTS\PPFT\Personality-Prediction-from-Text
+   # Clone the repository
+git clone https://github.com/mahnnoorashraf/Personality-Prediction-from-Text.git
+
+# Navigate to the project directory
+cd Personality-Prediction-from-Text
    ```
 
 2. **Create a Virtual Environment (Recommended)**
